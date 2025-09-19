@@ -1,4 +1,3 @@
-
 # Balance Sheet Analyzer & Tax Estimator
 
 This is a powerful Streamlit-based financial analysis tool that allows users to upload financial files and receive insights, Profit & Loss statements, estimated tax liability, and GST/TDS summaries using AI (Gemini Pro). It supports chat-based interaction and live tax updates.
